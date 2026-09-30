@@ -1,0 +1,34 @@
+﻿Student Name: Iyaremye Dushime Keza Kevin
+
+Problem:
+I need to start a coding project and make sure the required tools and project files are ready before I begin working.
+
+Input:
+A computer, internet connection, code editor, required software, and the project requirements.
+
+Output:
+A ready project folder where I can start coding successfully.
+
+Edge Case Handled:
+If a required tool is missing, I install or configure it before starting the project.
+
+Pseudocode:
+START
+1. Read the project requirements.
+2. Create a folder for the project.
+3. Open the project folder in the code editor.
+4. Check that the required software and tools are installed.
+5. IF all required tools are available
+      Continue with the project setup.
+   ELSE
+      Install or configure the missing tools.
+6. Create the required project files and folders.
+7. Check that the project opens correctly.
+8. Start working on the project.
+END
+
+Why this is clear enough to follow:
+The process gives the steps in the order they should be completed.
+Each step describes a specific action instead of using unclear instructions.
+The IF/ELSE decision explains what to do when a required tool is missing.
+The process also shows what should be ready before coding begins.
