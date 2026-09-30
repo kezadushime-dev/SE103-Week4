@@ -1,0 +1,25 @@
+﻿Student Name: Iyaremye Dushime Keza Kevin
+
+Problem:
+Find which scores failed.
+
+Input:
+a list of student scores
+
+Output:
+the failing scores, or a message if no one failed
+
+Failing rule:
+score < 50
+
+Pseudocode:
+START
+1. Create an empty list called failing_scores.
+2. FOR each score in the list of student scores
+      IF score < 50
+         Add the score to failing_scores.
+3. IF failing_scores is empty
+      Return "No one failed."
+   ELSE
+      Return the failing_scores list.
+END

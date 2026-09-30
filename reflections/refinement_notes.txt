@@ -1,0 +1,10 @@
+﻿Student Name: Iyaremye Dushime Keza Kevin
+
+Which phrases were too vague:
+The phrases "Get student scores" and "Check them" were too vague because they did not explain what action should be performed. The phrase "Find who failed" also did not explain the rule for deciding whether a student failed.
+
+How I made each vague part specific:
+I changed "Get student scores" into using a list of student scores as the input. I replaced "Check them" with a loop that examines each score one at a time. I made the failing rule specific by stating that a score less than 50 is a failing score. I also explained what happens when no student has a failing score.
+
+Why refinement matters before coding:
+Refining pseudocode makes the instructions easier to understand before writing actual code. It reduces confusion because every important action and decision is clearly defined. Clear pseudocode can also make coding faster and help prevent mistakes.
