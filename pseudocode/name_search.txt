@@ -1,0 +1,22 @@
+﻿Student Name: Iyaremye Dushime Keza Kevin
+
+Problem:
+Search a list of names for one target name and report whether it was found.
+
+Input:
+- a list of names
+- one target name
+
+Output:
+- "Found" or "Not found"
+- or an error if the list is empty
+
+Pseudocode:
+START
+1. IF the list of names is empty
+      Return "Error: list is empty"
+2. FOR each name in the list
+      IF the name matches the target name
+         Return "Found"
+3. Return "Not found"
+END
