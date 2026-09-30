@@ -1,0 +1,21 @@
+﻿Student Name: Iyaremye Dushime Keza Kevin
+
+Problem:
+Count how many numbers in a list are greater than 10.
+
+Input:
+a list of numbers
+
+Output:
+the count, or an error if the list is empty
+
+Pseudocode:
+START
+1. IF the list is empty
+      Return "Error: list is empty"
+2. Set count to 0.
+3. FOR each number in the list
+      IF the number is greater than 10
+         Increase count by 1.
+4. Return count.
+END
