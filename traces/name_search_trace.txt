@@ -1,0 +1,21 @@
+﻿Student Name: Iyaremye Dushime Keza Kevin
+Name list: ["Ama", "Kofi", "Yaw"]
+
+Trace 1 - target "Kofi":
+1. Start searching the list from the first name.
+2. Compare "Ama" with "Kofi". They do not match.
+3. Compare "Kofi" with "Kofi". They match.
+4. Stop searching because the target name was found.
+Result: Found
+
+Trace 2 - target "Efua":
+1. Start searching the list from the first name.
+2. Compare "Ama" with "Efua". They do not match.
+3. Compare "Kofi" with "Efua". They do not match.
+4. Compare "Yaw" with "Efua". They do not match.
+5. The entire list has been checked without finding the target.
+Result: Not found
+
+Empty list input: []
+Empty list result:
+Error: list is empty
