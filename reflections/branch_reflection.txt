@@ -1,0 +1,10 @@
+Student Name: Iyaremye Dushime Keza Kevin
+
+Why teams use branches:
+Teams use branches so people can work on different features or changes without directly changing the main branch. Branches help keep unfinished work separate from stable work. They also make it easier to review changes before they are merged. Each team member can work independently and then share their changes through a pull request.
+
+Why add-reflection is a better branch name than test or changes:
+add-reflection clearly describes the purpose of the branch and the work being done. Names like test or changes are too general and do not tell the team what the branch contains.
+
+What stays protected when I work on a branch instead of main:
+The main branch stays protected from unfinished or incorrect changes while I work on my branch. My changes can be reviewed before they are merged into main.
