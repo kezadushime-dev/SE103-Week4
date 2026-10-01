@@ -1,22 +1,15 @@
 Student Name: Iyaremye Dushime Keza Kevin
 GitHub Username: kezadushime-dev
-Repository: SE1110935852273-Week5
+Repository: SE103-Week4
 Repository URL: https://github.com/kezadushime-dev/SE103-Week4
 
-What I understand better about algorithms now:
-I understand that an algorithm is a clear sequence of steps used to solve a problem.
-I understand how decisions and loops can be used to process different inputs.
-I also understand that pseudocode helps me plan the solution before writing actual code.
-Tracing an algorithm helps me see exactly how each step changes the result.
+What a pull request asks teammates to do:
+A pull request asks teammates to review proposed changes before they are added to the main branch. It gives them a chance to check the work, discuss it, and approve the changes.
 
-How tracing changed my confidence:
-Tracing helped me understand how an algorithm works with real input values.
-I can now follow each step and check whether the result is correct.
-It also helps me find mistakes before I start writing code.
-This makes me more confident when designing algorithms.
+Why branches and pull requests are used together:
+Branches allow developers to work on changes separately from the main branch. Pull requests provide a way to review those changes before merging them into main.
 
-One pseudocode habit I will keep:
-I will keep writing clear and ordered steps before coding.
-I will also make decisions, loops, inputs, and outputs specific instead of vague.
+One thing that confused me in this project and how I solved it:
+I was initially confused about the difference between a branch and a pull request. I solved it by practicing the process of creating a branch, making a commit, pushing the branch, and creating a pull request. This helped me understand how the branch contains my work while the pull request is used to review and merge that work.
 
 All required files are on main: Yes
