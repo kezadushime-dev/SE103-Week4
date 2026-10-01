@@ -1,0 +1,16 @@
+Student Name: Iyaremye Dushime Keza Kevin
+GitHub Username: kezadushime-dev
+
+Authentication method I used: PAT
+
+Why I chose this method:
+I chose PAT because it allows me to authenticate securely when pushing my work to GitHub. It is also easy to use with Git over HTTPS.
+
+One security habit I must follow with this method:
+I must keep my personal access token private and never share it with other people or put it inside my code or public repositories.
+
+Difference between a commit and a push:
+A commit saves my changes in the local Git repository and records them in Git history. A push sends my local commits to the remote GitHub repository. A commit can be made without an internet connection, while pushing normally requires a connection to GitHub. Pushing makes my committed changes available on the remote repository.
+
+My repository URL:
+https://github.com/kezadushime-dev/SE103-Week4
